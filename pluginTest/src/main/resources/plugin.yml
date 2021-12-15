@@ -1,0 +1,4 @@
+name: pluginTest
+author : Singard
+main: pluginTest.Main
+version: 1.0

@@ -1,0 +1,9 @@
+utils\commands\CommandArgs.class
+pluginTest\Main.class
+utils\commands\BukkitCommand.class
+utils\commands\Command.class
+utils\commands\ICommand.class
+pluginTest\SpigotBlankPlugin.class
+utils\commands\CommandFramework.class
+utils\commands\Completer.class
+utils\commands\BukkitCompleter.class
